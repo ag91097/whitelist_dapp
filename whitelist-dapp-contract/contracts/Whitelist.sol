@@ -22,4 +22,5 @@ contract Whitelist {
         numAddressesWhitelisted++;
     }
 
+
 }
